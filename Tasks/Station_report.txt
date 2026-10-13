@@ -1,0 +1,6 @@
+===== FUEL STATION SUMMMARY =====
+Days recorded: 7
+Total litres: 2900
+Average per day: 414.285714
+Busiest day: 510litres
+Quiet days(<400): 3
